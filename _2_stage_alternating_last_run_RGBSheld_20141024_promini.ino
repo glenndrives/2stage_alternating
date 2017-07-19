@@ -1,5 +1,5 @@
 /*
-//   (C) Copyright 2014-2017 Glenn Hickman <glennh@gjjtjc.com>
+//   (C) Copyright 2013-2017 Glenn Hickman <glennh@gjjtjc.com>
 //
 //   This program is free software; you can redistribute it and/or modify
 //   it under the terms of the GNU General Public License version 2 as
